@@ -4,7 +4,7 @@ Engage2Value is a machine learning competition focused on predicting customer pu
 
 
 🔗 **Kaggle Competition:**  
-[https://www.kaggle.com/competitions/your-competition-name](https://www.kaggle.com/competitions/engage-2-value-from-clicks-to-conversions/overview)
+[Competition](https://www.kaggle.com/competitions/engage-2-value-from-clicks-to-conversions/overview)
 
 # Description
 

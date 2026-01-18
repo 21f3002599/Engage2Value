@@ -1,7 +1,7 @@
 # Engage2Value
 This competition aims to predict customer purchase value from multi-session behavior across digital touchpoints. The anonymized data includes browsers, traffic sources, devices, and location signals. By modeling these patterns, participants estimate each user’s purchase potential to improve targeting, marketing, and engagement.
 
-Description
+#Description
 
 The goal of this competition is to predict a customer’s purchase value based on their multi-session behavior across digital touchpoints. The dataset captures anonymized user interactions such as browser types, traffic sources, device details, and geographical indicators. By modeling these patterns, participants will estimate the purchase potential of each user, helping optimize marketing and engagement strategies.
 Evaluation
@@ -18,7 +18,7 @@ id 	purchaseValue
 5 	0
 etc. 	
 
-Dataset Description
+#Dataset Description
 
 This dataset captures detailed session-level information from a large-scale digital commerce platform. Each row corresponds to a unique user session and includes data on user behavior, acquisition channels, device information, and geographical location.
 
